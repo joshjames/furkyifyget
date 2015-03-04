@@ -6,6 +6,7 @@ api's i will be using are.
 
 1. YIFY torrents API. https://yts.re/api
 2. Furk API https://www.furk.net/t/api
+3. plex api/python
 
 basic logic will be.
 query yify for... all movies? a selection.. top 10..? latest 10 ? or custom query
@@ -16,4 +17,4 @@ utilise server access (remote ssh maybe) to pass a wget on my plex server of new
 force library update in plex.
 play new updated file.
 
-this is more ideal than just a init strean play as the file is saved to the plex library.
+this is more ideal than just a init stream play as the file is saved to the plex library.
